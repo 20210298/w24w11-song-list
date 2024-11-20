@@ -29,4 +29,5 @@ onClick은 함수를 받음 `onClick={함수}`
 
 ## Song List
 
+js 에서는  `<div className="playlist">` 클래스 네임!!
 
