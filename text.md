@@ -31,3 +31,12 @@ onClick은 함수를 받음 `onClick={함수}`
 
 js 에서는  `<div className="playlist">` 클래스 네임!!
 
+## MongoDB
+
+프론트 : 리액트
+백엔드 : 스프링
+데이터베이스 : 몽고디비
+
+RESTful API
+- REST를 지원하는 API
+
